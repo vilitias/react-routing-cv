@@ -1,0 +1,45 @@
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/* .filmography-wrapper {
+  max-width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
+.year-films {
+  display: flex;
+}
+
+.bold-span {
+  font-weight: 500;
+  margin-right: 5px;
+}
+
+.main-photo {
+  height: 500px;
+  width: 370px;
+  border-radius: 5px;
+}
+
+.about-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.about-text {
+  width: 60%;
+}
+
+.cv-navigation {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.cv-ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
